@@ -69,3 +69,4 @@ def rose_curve_cos(thetas, a=10, n=3):
 
 if __name__ == '__main__':
     main()
+
